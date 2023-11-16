@@ -1,0 +1,51 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(23, 22, 22);
+}
+
+/* header */
+.header-link {
+    text-decoration: none;
+}
+
+.it-site {
+    color: aqua;
+    font-size: 30px;
+}
+
+
+
+.header-link {
+    color: rgb(38, 255, 0);
+    transition-duration: 0.5s;
+    transition-property: all;
+}
+
+.header-link:hover {
+    transform: scale(1);
+    color: aqua;
+}
+
+.header-list {
+    list-style: none;
+}
+
+.shop {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+/* info */
+.info-title {
+    color: aqua;
+}
+
+.info-text {
+    color: rgb(82, 222, 222);
+}
+
+/* information */
+
+.information-text {
+    color: rgb(30, 210, 204);
+}
